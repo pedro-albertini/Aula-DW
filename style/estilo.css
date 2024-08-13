@@ -1,0 +1,16 @@
+h1 {
+    color: green;
+    text-align: center
+}
+
+p {
+    color: aquamarine;
+    text-align: center;
+    padding: 5% 2%;
+}
+
+.imagens {
+    width: 250px;
+    height: 250px;
+
+}
